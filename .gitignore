@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environment
+oqs-venv/
+venv/
+
+# Data / large files
+data/
+*.png
+*.wav
+
+# IDE / system files
+.vscode/
+.DS_Store
